@@ -10,6 +10,6 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Badges - Readme
-        uses: Koks-creator/badge-readme@main
+        uses: Koks-creator/readme@main
         with:       
           CREDLY_USER: obi-obi
